@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Library</title>
+    <link rel="stylesheet" href="Library.css">
+</head>
+<body>
+    <div class="content">
+        <div class="header">
+            <h1> 📚 Library</h1>
+        </div>
+        
+        <button id="addBookBtn">➕ New book</button>
+        <div class="main"></div>
+
+    </div>
+
+
+    <dialog id="popup">
+        <form>
+            <h2 class="form-heading">Add Book 📗</h2>
+            <div class="form-part">
+                <label for="title">📖 Title: </label>
+                <input type="text" id="title" name="title" placeholder="The Hobbit">
+            </div>
+            <div class="form-part">
+                <label for="author"> ✒️ Author: </label>
+                <input type="text" id="author" name="author" placeholder="J.R.R. Tolkien">
+            </div>
+            <div class="form-part">
+                <label for="no_of_pages">📄 Pages: </label>
+                <input type="number" id="no_of_pages" name="no_of_pages" placeholder="292" min="1">
+            </div>
+            <div>
+                <button type="submit" id="submitBtn">Confirm</button>
+            </div>
+        </form>
+    </dialog>
+    <script src="Library.js" defer></script>
+</body>
+</html>

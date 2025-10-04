@@ -1,0 +1,41 @@
+body{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+h1,p{
+    color:red; 
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+}
+.grid{
+    display:grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+    background-color: red;
+}
+.cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    font-size: 2rem;
+    color: black;
+    cursor: pointer;
+}
+
+#resetBtn{
+    margin-top: 20px;;
+    background-color: red;
+    border-radius: 15px;
+    border:none;
+    width:80px;
+    height:30px;
+    font-size: 20px;
+    font-weight: 700;
+}

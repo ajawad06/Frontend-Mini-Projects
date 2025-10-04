@@ -1,0 +1,132 @@
+@font-face {
+    font-family: Norse-Bold;
+    src: url(Norse-Bold.otf) format('opentype');
+}
+body, html {
+  margin: 0;
+  height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+.left-container {
+  width: 40%;
+  background: url('plant.jpg') center/cover no-repeat;
+  position: relative;
+  color: white;
+}
+
+.logo-box {
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  position: absolute;
+  top: 20%;
+  gap:10px;
+  width: 100%;
+  height: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-box h2 {
+  font-size: 70px;
+  font-weight: 500;
+  font-family: 'Norse-Bold', 'Times New Roman', Times, serif;
+}
+
+.logo-box img{
+    height:100px;
+    width: 100px;;
+}
+.photo-credit {
+  position: absolute;
+  bottom: 10px;
+  left: 30%;
+  font-size: 12px;
+  color: #ddd;
+  text-align: center;
+}
+.underline{
+    text-decoration: underline;
+}
+.right-container {
+  flex: 1;
+  background-color: #f8f8f8;
+  padding: 40px 50px;
+  display: flex;
+  flex-direction: column;
+}
+.right-upper{
+  font-weight: 700;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+}
+.right-mid{
+  margin-bottom: 20px;
+  padding:10px 30px;
+  font-size:25px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color:rgb(66,66,66);
+}
+.right-mid > p {
+  font-weight: 700;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  gap:20px;
+}
+.row-group{
+  display: flex;
+  gap:60px
+}
+input{
+  border-radius: 4px;
+  border:1px solid #E5E7EB;
+  height:20px;
+  width:185px;
+  padding-left: 15px;
+}
+input:focus {
+  border: 1px solid #3B82F6; 
+  box-shadow: 0 0 3px 1px rgba(59, 130, 246, 0.5); 
+  outline: none;
+}
+input:invalid {
+  border: 1px solid red;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  gap:2px;
+}
+.right-lower{
+  margin-top: 20px;
+}
+.right-lower > p{
+   font-size: 14px;
+}
+button{
+  background-color:#596D48;
+  color:white;
+  border-radius: 5px;
+  border: 2px solid #596D48;
+  width: 160px;
+  height:35px;
+  font-weight: 600;
+}
+button:hover{
+  background-color: #435230;;
+}
+a{
+  color:#596D48;
+  text-decoration: none;
+}
