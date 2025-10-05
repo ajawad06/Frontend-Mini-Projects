@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "start": "webpack serve --mode development --open",
+  "build": "webpack --mode production",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ajawad06/The-Desi-Table.git"
