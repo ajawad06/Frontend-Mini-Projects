@@ -19,10 +19,6 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 | 6 | **Landing Page** | A modern responsive landing page layout. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Landing-Page/) | [Code](./Landing-Page) |
 | 7 | **Signup Page** | A clean signup form with input validation. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Signup-Page/) | [Code](./Signup-Page) |
 | 8 | **Tic Tac Toe** | Playable Tic Tac Toe with basic game logic. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/TicTacToe/) | [Code](./TicTacToe) |
-| 9 | **The Desi Table** | A simple restaurant menu or homepage layout. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/The-Desi-Table-Built/) | [Code](./The-Desi-Table) |
-| 10 | **To-Do List App** | Create, check off, and delete tasks with local storage. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/To-Do-List-App-Built/) | [Code](./To-Do-List-App) |
-| 11 | **Weather App** | Displays real-time weather using API data. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Weather-App-Built/) | [Code](./Weather-App) |
-| 12 | **Expense Tracker** | Tracks daily expenses and updates total dynamically (React+TS). | --- | [Code](./Expense-Tracker) |
 
 ---
 
@@ -30,8 +26,6 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
-- **React JS**
-- **Webpack**
-- **APIs**
+
 
 
