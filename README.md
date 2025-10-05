@@ -22,7 +22,7 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 | 9 | **The Desi Table** | A simple restaurant menu or homepage layout. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/The-Desi-Table-Built/) | [Code](./The-Desi-Table) |
 | 10 | **To-Do List App** | Create, check off, and delete tasks with local storage. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/To-Do-List-App-Built/) | [Code](./To-Do-List-App) |
 | 11 | **Weather App** | Displays real-time weather using API data. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Weather-App-Built/) | [Code](./Weather-App) |
-| 12 | **Expense Tracker** | Tracks daily expenses and updates total dynamically. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Expense-Tracker/) | [Code](./Expense-Tracker) |
+| 12 | **Expense Tracker** | Tracks daily expenses and updates total dynamically (React+TS). | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Expense-Tracker/) | [Code](./Expense-Tracker) |
 
 ---
 
