@@ -22,7 +22,7 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 | 9 | **The Desi Table** | A simple restaurant menu or homepage layout. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/The-Desi-Table/) | [Code](./The-Desi-Table) |
 | 10 | **Tic Tac Toe** | Playable Tic Tac Toe with basic game logic. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/TicTacToe/) | [Code](./TicTacToe) |
 | 11 | **To-Do List App** | Create, check off, and delete tasks with local storage. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/To-Do-List-App/) | [Code](./To-Do-List-App) |
-| 12 | **Weather App** | Displays real-time weather using API data. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Weather-App/) | [Code](./Weather-App) |
+| 12 | **Weather App** | Displays real-time weather using API data. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Weather-App-Built/) | [Code](./Weather-App) |
 
 ---
 
