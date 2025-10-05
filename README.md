@@ -28,9 +28,10 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 
 ## 🛠️ Tech Stack
 - **HTML5**
-- **CSS3 (Flexbox & Grid)**
-- **Vanilla JavaScript (ES6)**
+- **CSS3**
+- **Vanilla JavaScript**
+- **React JS**
+- **Webpack**
+- **APIs**
 
----
 
-## 📂 Project Structure
