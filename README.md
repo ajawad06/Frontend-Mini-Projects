@@ -30,7 +30,7 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 - **HTML5**
 - **CSS3 (Flexbox & Grid)**
 - **Vanilla JavaScript (ES6)**
+- **React JS**
+- **Webpack**
 
----
 
-## 📂 Project Structure
