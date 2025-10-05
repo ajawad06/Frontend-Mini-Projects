@@ -1,6 +1,6 @@
 # 🌐 Frontend Mini Projects
 
-A collection of small beginner-friendly **frontend projects** built using **HTML, CSS, and JavaScript**.  
+A collection of small beginner-friendly **frontend projects** I built using **HTML, CSS, and JavaScript**.  
 Each folder contains a self-contained mini web app that helped me practice and improve my web development skills. 🚀  
 
 You can explore, learn from, or deploy them yourself — each project is simple, clean, and focused on a single concept.
