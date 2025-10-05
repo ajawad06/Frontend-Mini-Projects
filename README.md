@@ -11,9 +11,9 @@ You can explore, learn from, or deploy them yourself — each project is simple,
 
 | # | Project Name | Description | Live Demo | Source Code |
 |---|---------------|-------------|------------|--------------|
-| 1 | **Rock Paper Scissors** | A classic game built using JS logic and DOM manipulation. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/RockPaperScissors/) | [Code](./RockPaperScissors) |
-| 2 | **Calculator** | A basic calculator for arithmetic operations. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Calculator/) | [Code](./Calculator) |
-| 3 | **Etch-a-Sketch** | A fun drawing pad made with HTML Canvas. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Etch-a-Sketch/) | [Code](./Etch-a-Sketch) |
+| 1 | **Rock Paper Scissors** | A classic game built using JS logic and first web page. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/RockPaperScissors/) | [Code](./RockPaperScissors) |
+| 2 | **Etch-a-Sketch** | A fun drawing pad made for DOM manipulation. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Etch-a-Sketch/) | [Code](./Etch-a-Sketch) |
+| 3 | **Calculator** | A basic calculator for arithmetic operations. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Calculator/) | [Code](./Calculator) |
 | 4 | **Library App** | Manage books and track if they’ve been read. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Library/) | [Code](./Library) |
 | 5 | **Home Page** | A simple responsive homepage design using flexbox/grid. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Home-Page/) | [Code](./Home-Page) |
 | 6 | **Landing Page** | A modern responsive landing page layout. | [Live](https://ajawad06.github.io/Frontend-Mini-Projects/Landing-Page/) | [Code](./Landing-Page) |
